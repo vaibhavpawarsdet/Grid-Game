@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Calibri, Arial;
+    margin:0;
+}
+h2{
+    font-weight:normal;
+    text-align:left;
+    margin: 0px 280px;
+}
+h3{
+    font-weight:normal;
+    margin:3px 280px;
+    text-align:left;
+}
