@@ -5,7 +5,6 @@
     **Ask yourself these questions:**
     
     → What is the gameplay like? What all can we do in the game? What are the things we can't do?
-    
     → Is there a pattern to the place where the numbers pop up or are they random? What about the numbers themselves?
     
     → What is the winning condition in my game? (for example when you reach 2048)
